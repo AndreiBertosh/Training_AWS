@@ -1,0 +1,9 @@
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\Task9LambdaCreateS3.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\Task9LambdaCreateS3.deps.json
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\Task9LambdaCreateS3.runtimeconfig.json
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\Task9LambdaCreateS3.pdb
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Core.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.S3Events.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\AWSSDK.Core.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\Task9LambdaCreateS3\Task9LambdaCreateS3\bin\Release\netcoreapp3.1\publish\AWSSDK.S3.dll

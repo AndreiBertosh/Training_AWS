@@ -1,0 +1,123 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\EPAM\\Learn\\AWS\\Application\\WEBApp\\AmazonWebApplication1\\AmazonWebApplication1\\AmazonWebApplication1.csproj": {}
+  },
+  "projects": {
+    "D:\\EPAM\\Learn\\AWS\\Application\\WEBApp\\AmazonWebApplication1\\AmazonWebApplication1\\AmazonWebApplication1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\EPAM\\Learn\\AWS\\Application\\WEBApp\\AmazonWebApplication1\\AmazonWebApplication1\\AmazonWebApplication1.csproj",
+        "projectName": "AmazonWebApplication1",
+        "projectPath": "D:\\EPAM\\Learn\\AWS\\Application\\WEBApp\\AmazonWebApplication1\\AmazonWebApplication1\\AmazonWebApplication1.csproj",
+        "packagesPath": "C:\\Users\\Andrei_Bertosh\\.nuget\\packages\\",
+        "outputPath": "D:\\EPAM\\Learn\\AWS\\Application\\WEBApp\\AmazonWebApplication1\\AmazonWebApplication1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Andrei_Bertosh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://maven.platform.tm.tmcs:8081/nexus/service/local/nuget/Venuemaster-EPAM-Releases/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "AWSSDK.Core": {
+              "target": "Package",
+              "version": "[3.7.3.26, )"
+            },
+            "AWSSDK.Extensions.NETCore.Setup": {
+              "target": "Package",
+              "version": "[3.7.1, )"
+            },
+            "AWSSDK.S3": {
+              "target": "Package",
+              "version": "[3.7.3.19, )"
+            },
+            "AWSSDK.SQS": {
+              "target": "Package",
+              "version": "[3.7.1.29, )"
+            },
+            "AWSSDK.SimpleNotificationService": {
+              "target": "Package",
+              "version": "[3.7.2.57, )"
+            },
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.90, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.11, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[5.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            },
+            "ncrontab": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

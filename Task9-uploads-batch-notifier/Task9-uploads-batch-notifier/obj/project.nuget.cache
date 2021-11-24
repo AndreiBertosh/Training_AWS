@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rnDBC9h53Mbgt9Q/ovp3ubY/COdBoPlsubphgwd/OjdwX6+cREpqpA6eq5TryoW6IKfDwCFLc5H4Qj6y3CnAyQ==",
+  "success": true,
+  "projectFilePath": "D:\\EPAM\\Learn\\AWS\\Application\\WEBApp\\AmazonWebApplication1\\Task9-uploads-batch-notifier\\Task9-uploads-batch-notifier\\Task9-uploads-batch-notifier.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andrei_Bertosh\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Andrei_Bertosh\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.2.0\\amazon.lambda.serialization.systemtextjson.2.2.0.nupkg.sha512",
+    "C:\\Users\\Andrei_Bertosh\\.nuget\\packages\\amazon.lambda.sqsevents\\2.0.0\\amazon.lambda.sqsevents.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

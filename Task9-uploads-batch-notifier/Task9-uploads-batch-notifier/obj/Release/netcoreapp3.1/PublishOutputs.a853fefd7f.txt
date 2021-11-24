@@ -1,0 +1,7 @@
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\publish\Task9-uploads-batch-notifier.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\publish\Task9-uploads-batch-notifier.deps.json
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\publish\Task9-uploads-batch-notifier.runtimeconfig.json
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\publish\Task9-uploads-batch-notifier.pdb
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\publish\Amazon.Lambda.Core.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+D:\EPAM\Learn\AWS\Application\WEBApp\AmazonWebApplication1\publish\Amazon.Lambda.SQSEvents.dll
